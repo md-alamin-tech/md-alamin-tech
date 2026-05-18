@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Al Amin — Web Designer and Frontend Developer" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHVS52EEU6pWQ/profile-displaybackgroundimage-shrink_350_1400/B56ZpOHduZHYAY-/0/1762247171790?e=1780531200&v=beta&t=G-5N_RUa1Q2DB97qzDEEZbwPR7eqX-AFTQmR_JQUe8g" width="100%" alt="Al Amin — Web Designer and Frontend Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00C8E8&center=true&vCenter=true&width=650&lines=Web+Designer+%26+Frontend+Developer;Squarespace+%26+Wix+Expert;React+%2F+Next.js+Developer;Building+Premium+Digital+Experiences" alt="Typing SVG" />
 
